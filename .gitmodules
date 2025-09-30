@@ -1,0 +1,3 @@
+[submodule "iot-cloud-ota"]
+	path = iot-cloud-ota
+	url = https://github.com/coffee-is-essential/iot-cloud-ota.git
